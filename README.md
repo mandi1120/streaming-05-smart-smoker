@@ -14,8 +14,10 @@
         - Channe3 = Food B Temp 
 
 ## Instructions:
-- Set constant for host name
-- Turn on (show_offer=true) or turn off (show_offer=false) asking the user if they'd like to open the RabbitMQ Admin site 
+- Requires RabbitMQ server to be running and pika to be installed in your active environment
+- Bbq_producer.py
+    - Set constant for host name
+    - Turn on (show_offer=true) or turn off (show_offer=false) asking the user if they'd like to open the RabbitMQ Admin site 
 
 ## Project Requirements - Smart Smoker Description:
 - Using a Barbeque Smoker
