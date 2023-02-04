@@ -46,7 +46,7 @@
 
 - Optional: Alert Notifications
     - Optionally, we can have our consumers send us an email or a text when a significant event occurs. 
-    - You'll need some way to send outgoing emails. I use my main Gmail account - other options are possible. 
+    - You'll need some way to send outgoing emails. 
 
 ## Screenshot - Producer Program Running in Terminal:
 
