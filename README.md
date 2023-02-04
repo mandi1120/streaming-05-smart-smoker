@@ -57,3 +57,7 @@
 ## Screenshot - Producer Program Running in Terminal:
 
 ![Program Running](Producer_running_screenshot.png)
+
+## Screenshot - RabbitMQ Management Console:
+
+![RabbitMQ Admin](RabbitMQ_admin_screenshot.png)
