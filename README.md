@@ -13,11 +13,15 @@
         - Channe2 = Food A Temp 
         - Channe3 = Food B Temp 
 
-## Instructions:
+## Prerequisites:
 - Requires RabbitMQ server to be running and pika to be installed in your active environment
+
+## Instructions:
 - Bbq_producer.py
-    - Set constant for host name
+    - Set your host name if it is different from localhost
     - Turn on (show_offer=true) or turn off (show_offer=false) asking the user if they'd like to open the RabbitMQ Admin site 
+    - Set csv file name
+    - Run the program
 
 ## Project Requirements - Smart Smoker Description:
 - Using a Barbeque Smoker
