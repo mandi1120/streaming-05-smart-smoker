@@ -48,6 +48,6 @@
     - Optionally, we can have our consumers send us an email or a text when a significant event occurs. 
     - You'll need some way to send outgoing emails. I use my main Gmail account - other options are possible. 
 
-## Screenshot - Program Running in Terminal:
+## Screenshot - Producer Program Running in Terminal:
 
 ![Program Running](Producer_running_screenshot.png)
