@@ -23,14 +23,14 @@ import time
 host = "localhost"
 smoker_temp_queue_name = "01-smoker"
 food_a_queue_name = "02-food-A"
-food_b_queue_name = "02-food-B"
+food_b_queue_name = "03-food-B"
 
 # set input file 
 csv_file = 'smoker-temps.csv'
 
 # set to turn on (true) or turn off (false) asking the 
 # user if they'd like to open the RabbitMQ Admin site 
-show_offer = True
+show_offer = False
 
 
 ######## define functions ########
@@ -96,7 +96,7 @@ def send_message(host: str, queue_name: str, message: str):
 def get_and_send_message_from_csv(input_file):
     """
     Open the csv input file and read each row as a message
-    then sends the message to the queue
+    then send the message to the queue
     """
     with open(input_file, 'r') as file:
         reader = csv.reader(file, delimiter=",")      
