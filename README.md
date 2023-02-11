@@ -72,16 +72,16 @@ conda install -c conda-forge pika
     - You'll need some way to send outgoing emails. 
 
 ## Screenshot - Producer Program Running in Terminal:
-![Program Running](Producer_running_screenshot.png)
+![Program Running](Producer_running.png)
 
 ## Screenshot - Consumer Program Running in Terminal:
-![Program Running](Consumer_running_screenshot.png)
+![Program Running](Consumer_running.png)
 
 ## Screenshot - Producer & Consumer Programs Running Concurrently:
-![Program Running](Consumer+producer_running_screenshot.png)
+![Program Running](Consumer+producer_running.png)
 
 ## Screenshot - RabbitMQ Management Console:
-![RabbitMQ Admin](RabbitMQ_admin_screenshot.png)
+![RabbitMQ Admin](RabbitMQ_admin.png)
 
 
 
