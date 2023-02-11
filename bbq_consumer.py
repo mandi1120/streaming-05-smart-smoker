@@ -201,5 +201,5 @@ if __name__ == "__main__":
 
     main()
 
-    #main(host, '0', '0', food_b_queue_name)
+
 
