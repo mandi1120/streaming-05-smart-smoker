@@ -30,7 +30,7 @@ csv_file = 'smoker-temps.csv'
 
 # set to turn on (true) or turn off (false) asking the 
 # user if they'd like to open the RabbitMQ Admin site 
-show_offer = False
+show_offer = True
 
 
 ######## define functions ########
