@@ -1,7 +1,7 @@
 """
     Amanda Hanway - Streaming Data, Module 5
     2/4/23
-
+ 
     This program gets data from a csv file 
     then sends each column as a message to a 
     different queue on the RabbitMQ server.
